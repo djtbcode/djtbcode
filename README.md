@@ -1,9 +1,7 @@
 ### Hi there 👋
-### 🎓 Harvard CS50 Student (Expected December 2023)
+🎓 Harvard CS50 Student (Expected December 2023)
 🔐 IBM Certified Cybersecurity Analyst (May 2023)
 🔒 IT Fundamentals for Cybersecurity Graduate (2023)
-🖋 Proofreading and Editing Diploma (2022-2023)
-🌍 TEFL Certified English Language Educator (2022)
 
 💻 Languages & Skills:
 🐍 Python | 🌐 JavaScript | 💻 C/C++ | 📊 Data Analytics
@@ -12,9 +10,8 @@
 
 🌐 Check out my projects below! 👇
 
-🔗 [Project 1 Name] - [Brief Description]
-🔗 [Project 2 Name] - [Brief Description]
-🔗 [Project 3 Name] - [Brief Description]
+🔗 Office Utilities - Aim is to have a fully automated suite of 'helpers' for repetitive tasks i find myself doing. 
+
 
 Passionate about coding, cybersecurity, and using data to solve real-world problems. Let's collaborate and build amazing things together! 🚀 #SoftwareDevelopment #Cybersecurity #DataAnalytics
 
