@@ -1,5 +1,5 @@
 ### Hi there 👋
-🎓 Harvard CS50 Student (Expected December 2023)
+🎓 Harvard CS50 Student
 🔐 IBM Certified Cybersecurity Analyst (May 2023)
 🔒 IT Fundamentals for Cybersecurity Graduate (2023)
 
